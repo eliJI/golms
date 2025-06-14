@@ -1,2 +1,2 @@
 # golms
-A Go Lang API for programatically interacting with the LM studio server API
+A Go based API for programatically interacting with the LMstudio server API
